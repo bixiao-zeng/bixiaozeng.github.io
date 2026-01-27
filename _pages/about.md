@@ -46,11 +46,17 @@ Her academic and research achievements have been recognized with multiple honors
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-2024* National Scholarship
+- *2022-2023* China Scholarship Council - Government-sponsored Study Abroad Scholarship
+- *2021-2022* Director's Excellence Award, Institute of Computing Technology, CAS
+- *2020-2021* Academic First-Class Scholarship, University of the Chinese Academy of Sciences
+- *2019-2020* Merit Student, University of the Chinese Academy of Sciences
+
+
+需要我帮你把这份奖项列表按**时间倒序**重新排列，让它更符合海外学术简历的展示习惯吗？
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
