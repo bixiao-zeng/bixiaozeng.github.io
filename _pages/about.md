@@ -19,7 +19,7 @@ redirect_from:
 
 Dr. Bixiao Zeng is an Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences (CAS). She obtained her Ph.D. in Computer Application Technology from the University of the Chinese Academy of Sciences (UCAS) in 2025, under the supervision of Prof. Yiqiang Chen (IEEE Fellow). She also conducted joint research at Nanyang Technological University (Singapore) with Prof. Chunyan Miao (IEEE Fellow). Her research interests focus on noisy data governance, federated learning, and next-generation AI for healthy aging.
 
-Dr. Zeng has published more than 10 academic papers at the top international AI conferences (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=-SNrzJ4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), including IEEE TNNLS, ACM TIST, IMWUT, KBS, and IJCAI. The federated governance platform for medical data developed by her team has been successfully deployed in multiple clinical application scenarios: perioperative complication early warning (adopted by 7 medical centers including the Chinese PLA General Hospital), intracranial aneurysm risk assessment (implemented in 8 hospitals such as Beijing Tiantan Hospital, and awarded the Excellent Project in the Ministry of Industry and Information Technology's Competition for Key Technology Projects), and ophthalmic lesion screening (applied in 11 hospitals of Aier Eye Hospital Group).
+Dr. Zeng has published more than 10 academic papers at the top international AI journals & conferences (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=-SNrzJ4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), including IEEE TNNLS, ACM TIST, IMWUT, KBS, and IJCAI. The federated governance platform for medical data developed by her team has been successfully deployed in multiple clinical application scenarios: perioperative complication early warning (adopted by 7 medical centers including the Chinese PLA General Hospital), intracranial aneurysm risk assessment (implemented in 8 hospitals such as Beijing Tiantan Hospital, and awarded the Excellent Project in the Ministry of Industry and Information Technology's Competition for Key Technology Projects), and ophthalmic lesion screening (applied in 11 hospitals of Aier Eye Hospital Group).
 
 She serves as the Principal Investigator (PI) for several nationally competitive research projects, including the Postdoctoral Innovation Talent Program sponsored by the Ministry of Human Resources and Social Security of China, and the Youth Program of the National Natural Science Foundation of China (NSFC). Additionally, she is a core contributor to the development of IEEE Standards P3652.1, P2961, P2894, and P2807.6.
 Her academic and research achievements have been recognized with multiple honors and scholarships, including the National Scholarship for Studying Abroad, the National Scholarship, and the Director's Award of the Institute of Computing Technology, CAS.
@@ -37,7 +37,7 @@ Her academic and research achievements have been recognized with multiple honors
 <div class='paper-box-text' markdown="1">
 <span class='show_paper_citations' data='-SNrzJ4AAAAJ:d1gkVwhDpl0C'></span>
 
-[RetinaLink: Federated AI Data Governance](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RetinaLink: Federated AI Data Governance](https://github.com/bixiao-zeng/CLC.git)
 
 **Bixiao Zeng**, Jiankang Peng, Shubai Chen, Fan Dong, Yiqiang Chen
 
@@ -57,12 +57,15 @@ Her academic and research achievements have been recognized with multiple honors
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 – 2025.06*, Ph.D. in Computer Application Technology, University of the Chinese Academy of Sciences (UCAS), Beijing, China
+Supervisor: Prof. Yiqiang Chen (IEEE Fellow)
+- *2022.03 – 2023.03*, Joint Ph.D. Student, Nanyang Technological University (NTU), Singapore
+Collaborative Supervisor: Prof. Chunyan Miao (IEEE Fellow)
+- *2015.09 – 2019.06*, B.E. in Computer Science and Technology, Xiangtan University, Hunan, China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.08*, Oral Presentation (Long Paper), IJCAI 2024, Jeju, Korea.
+Talk Title: 'FedES: Federated Early-Stopping for Hindering Memorizing Heterogeneous Label Noise'.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.10 - 2023.10*, Research Intern, Webank Lab (Collaboration with Nanyang Technological University), Singapore
