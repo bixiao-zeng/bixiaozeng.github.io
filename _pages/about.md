@@ -37,12 +37,12 @@ Her academic and research achievements have been recognized with multiple honors
 <div class='paper-box-text' markdown="1">
 <span class='show_paper_citations' data='-SNrzJ4AAAAJ:d1gkVwhDpl0C'></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RetinaLink: Federated AI Data Governance](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Bixiao Zeng**, Jiankang Peng, Shubai Chen, Dong Fan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A federated learning data governance platform for retinal disease screening, offering quality assessment, noise detection, and label correction, which improves model accuracy via multi-expert validation while enabling privacy-preserving, multi-institutional collaboration. 
 </div>
 </div>
 
