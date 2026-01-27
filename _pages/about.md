@@ -39,7 +39,7 @@ Her academic and research achievements have been recognized with multiple honors
 
 [RetinaLink: Federated AI Data Governance](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Bixiao Zeng**, Jiankang Peng, Shubai Chen, Dong Fan, Yiqiang Chen
+**Bixiao Zeng**, Jiankang Peng, Shubai Chen, Fan Dong, Yiqiang Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A federated learning data governance platform for retinal disease screening, offering quality assessment, noise detection, and label correction, which improves model accuracy via multi-expert validation while enabling privacy-preserving, multi-institutional collaboration. 
@@ -55,8 +55,6 @@ Her academic and research achievements have been recognized with multiple honors
 - *2020-2021* Academic First-Class Scholarship, University of the Chinese Academy of Sciences
 - *2019-2020* Merit Student, University of the Chinese Academy of Sciences
 
-
-需要我帮你把这份奖项列表按**时间倒序**重新排列，让它更符合海外学术简历的展示习惯吗？
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

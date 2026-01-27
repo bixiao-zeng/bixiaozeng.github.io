@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bixiao Zeng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Chinese Academy of Sciences (CAS)"
+  bio              : "Assistant Professor at the Institute of Computing Technology, Chinese Academy of Sciences."
   location         : "Beijing, China"
-  employer         :
+  employer         : "ICT CAS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-SNrzJ4AAAAJ&hl=zh-CN"
   email            : "zengbixiao@ict.ac.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "https://github.com/bixiao-zeng"
+  github           : https://github.com/bixiao-zeng
   google_plus      :
   keybase          :
   instagram        :
